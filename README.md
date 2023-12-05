@@ -9,7 +9,7 @@ My research log Almost all research presentations, including lab meetings, proje
   - 경상국립대학교 컴퓨터과학과 석사과정
   - 증강지능 연구실
   - Blog : [![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://baemsul.tistory.com)
-  - Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/eb52a90acbe447ba86c88ced139b5318)
+  - Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318)
   - LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seunghyeon-hwang-517564284/)
 
 - 발표 내용 요약
